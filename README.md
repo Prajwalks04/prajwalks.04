@@ -7,17 +7,17 @@
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://github-profile-trophy.vercel.app/?username=Prajwalks04" alt="Prajwalks" /></a> </p>
+<p align="left"> <a href="https://github.com/Prajwalks04"><img src="https://github-profile-trophy.vercel.app/?username=Prajwalks04" alt="Prajwalks" /></a> </p>
 
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishupented&show_icons=true&locale=en" alt="vishupented" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prajwalks04&show_icons=true&locale=en" alt="Prajwalks" /></p>
 
 <details>
     <summary>Top Languages</summary>
     <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishupented)](https://github.com/vishupented)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalks04)](https://github.com/Prajwalks04)
 </details>
 
 <details>
@@ -28,9 +28,9 @@
 </details>
 
 ### Follow on:
-[![VishuPented](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
-[![VishuPented](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
-[![VishuPented](https://img.icons8.com/fluent/48/000000/linkedin.png)][Linkedin]
+[![PrajwalSunkad](https://img.icons8.com/fluent/48/000000/twitter.png)][twitter]
+[![PrajwalSunkad](https://img.icons8.com/fluent/48/000000/instagram-new.png)][instagram]
+[![PrajwalSunkad](https://img.icons8.com/fluent/48/000000/linkedin.png)][Linkedin]
 
 
 
