@@ -34,6 +34,6 @@
 
 
 
-[twitter]: https://twitter.com/vishupented04
-[instagram]: https://instagram.com/vishupented.04
-[linkedin]: https://www.linkedin.com/in/vishwanath-pented-044b6b252/
+[twitter]: https://twitter.com/Prajwalks04
+[instagram]: https://instagram.com/prajwal.ks.04
+[linkedin]: https://www.linkedin.com/in/prajwal-sunkad-7b5308259
