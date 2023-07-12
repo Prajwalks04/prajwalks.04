@@ -1,13 +1,13 @@
-<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Vishu Pented</h1>
+<h1 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I'm Prajwal Sunkad</h1>
 
 ## You Know Me?
 
-<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://komarev.com/ghpvc/?username=VishuPented&label=Profile%20views&color=0e75b6&style=flat" alt="vishupented" /></a> </p>
+<p align="left"> <a href="https://github.com/Prajwalks04"><img src="https://komarev.com/ghpvc/?username=Prajwalks04&label=Profile%20views&color=0e75b6&style=flat" alt="vishupented" /></a> </p>
 
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://github-profile-trophy.vercel.app/?username=vishupented" alt="vishupented" /></a> </p>
+<p align="left"> <a href="https://github.com/VishuPented/VishuPented"><img src="https://github-profile-trophy.vercel.app/?username=Prajwalks04" alt="Prajwalks" /></a> </p>
 
 </details>
 
